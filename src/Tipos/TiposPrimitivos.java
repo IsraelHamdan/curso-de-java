@@ -21,7 +21,6 @@ public class TiposPrimitivos {
         // suporta 4 bytes 3.4e-038 até 3.4e+038
         float salarioTipoFloat = 2500;
         System.out.println("Valor da variável salarioTipoFloat " + salarioTipoFloat );
-
         // suporta 1 byte -128 até 127
         byte idadeTipoByte = 10;
         System.out.println("Valor da variável idadeTipoByte " + idadeTipoByte);
