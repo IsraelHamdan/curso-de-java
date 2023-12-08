@@ -1,7 +1,7 @@
 package Tipos;
 
 public class TiposPrimitivos {
-    public static void main(String[] args) {
+    public static void main(TipoString[] args) {
         // Tipos primitivos são guardam valores simples
         // No java temos 8 tipos diferentes de tipos primitivos
         // São eles: int, float, double, char, byte, short, long, boolean
@@ -21,7 +21,6 @@ public class TiposPrimitivos {
         // suporta 4 bytes 3.4e-038 até 3.4e+038
         float salarioTipoFloat = 2500;
         System.out.println("Valor da variável salarioTipoFloat " + salarioTipoFloat );
-
         // suporta 1 byte -128 até 127
         byte idadeTipoByte = 10;
         System.out.println("Valor da variável idadeTipoByte " + idadeTipoByte);
