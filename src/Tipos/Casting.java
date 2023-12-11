@@ -1,7 +1,7 @@
 package Tipos;
 
 public class Casting {
-    public static void main(TipoString[] args) {
+    public static void main(String[] args) {
         // No Java temos uma coisa chamada casting que é serve para converter variáveis ;
 
         // no caso do float, precisamos colocar um 'f' minusculo depois do numero que desejamos assegurar como string
