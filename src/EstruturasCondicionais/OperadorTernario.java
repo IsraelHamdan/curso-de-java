@@ -11,6 +11,5 @@ public class OperadorTernario {
         System.out.println(resultado);
 
 
-
     }
 }
